@@ -1,2 +1,2 @@
-# IT5
+# PayRight
 Payroll System
